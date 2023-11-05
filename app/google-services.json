@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "891219413913",
+    "project_id": "ranters-ded09",
+    "storage_bucket": "ranters-ded09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891219413913:android:351fca59206eac22bc6108",
+        "android_client_info": {
+          "package_name": "com.example.ranters"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891219413913-g68m9q1end1vsnu152v3lp5fj1vvsn1p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ranters",
+            "certificate_hash": "437072ab7ac50dfa4cff492b32d6825340f616c5"
+          }
+        },
+        {
+          "client_id": "891219413913-3j0rh94998ngs6rbn93c47smb0m7kvkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5xPeukne5XEKFJkQnE3yaKwaKt-6MOuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891219413913-3j0rh94998ngs6rbn93c47smb0m7kvkq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

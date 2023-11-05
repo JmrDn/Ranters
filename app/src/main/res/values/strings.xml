@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ranters</string>
+    <string name="log_in">Log in</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create account</string>
+    <string name="view_your_profile">View your profile</string>
+    <string name="log_out">Log out</string>
+    <string name="post">Hello guys naiinis ako sa buhay ko gusto ko nalang maging hotdog</string>
+    <string name="nav_drawer_open">Navigation Drawer Open</string>
+    <string name="nav_drawer_close">Navigation Drawer Close</string>
+    <string name="what_s_on_your_mind">What\'s on your mind?</string>
+</resources>
